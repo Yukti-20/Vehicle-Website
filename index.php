@@ -57,7 +57,7 @@ else
                     <div class="row">
                         <div class="col-lg-3">
                             <div class="logo">
-                                <a href="home.php">
+                                <a href="index.php">
                                     <!--<h1>Housicle</h1>-->
                                      <img src="img/h3.jpeg" alt="Logo"> 
                                 </a>
@@ -90,7 +90,7 @@ else
 
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav mr-auto">
-                                <a href="home.php" class="nav-item nav-link active">Home</a>
+                                <a href="index.php" class="nav-item nav-link active">Home</a>
                                 <a href="about.php" class="nav-item nav-link">About</a>
                                 <a href="feature.php" class="nav-item nav-link">Feature</a>
                               
