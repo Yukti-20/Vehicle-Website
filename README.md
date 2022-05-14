@@ -1,4 +1,4 @@
-                                                        HOUSICLE
+# HOUSICLE
 
 The project is based on the domain web development (full stack). The project name is “Vehicle Rental System”. So basically, it is a website that helps the 
 peripatetic to travel around and visit places without buying their own vehicle at a reasonable rate. This website is designed to help customers pick up 
@@ -7,15 +7,15 @@ bicycles, bikes, cars and buses to trip around.
 This is a vehicle rental system website made for 4 modes of transport, namely
 Bicycle, Bike, Car, Bus
    
-**TECHNOLOGIES**
+### TECHNOLOGIES
 
 It uses 
-   1) HTML
-   2) CSS
-   3) Bootstrap
-   4) JavaScript 
+   1) `HTML`
+   2) `CSS`
+   3) `Bootstrap`
+   4) `JavaScript`
 
-to build the website, the backend was made with the help of Php and database used here is MySQL. 
+to build the website, the backend was made with the help of `Php` and database used here is `MySQL`. 
 
 This has one administrator account that verifies the subscriber and two types of user account. One of the vehicle dealers and one of the customers taking 
 a rental vehicle. This application has only one administrator account and cannot have more than one administrator account.
@@ -28,7 +28,7 @@ such as producing daily bookings, vehicle (bicycle, bike, car or bus) records or
 *This program helps you to store Customer information online. You can check your customer information at any time by using this app. The vehicle hire management 
 system is a unique and innovative product. Using this you can also save details of the booking number for the current month or for the last six months.*
 
-**GLIMPSES**
+### GLIMPSES
 
 **Home Page : About US**
 ![11](https://user-images.githubusercontent.com/65067765/168420786-99c14714-e775-4451-b7b1-a1e8303c69a2.png)
