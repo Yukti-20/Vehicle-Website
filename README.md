@@ -1,4 +1,4 @@
-                                                        HOUSICLE
+                                                           HOUSICLE
 
 The project is based on the domain web development (full stack). The project name is “Vehicle Rental System”. So basically, it is a website that helps the 
 peripatetic to travel around and visit places without buying their own vehicle at a reasonable rate. This website is designed to help customers pick up 
